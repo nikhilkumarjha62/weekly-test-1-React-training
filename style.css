@@ -1,0 +1,34 @@
+*{
+    background-color: aqua;
+}
+.dress{
+
+    /* height: 200px;
+    width: 1600px; */
+    display: inline;
+
+}
+#im1{
+    height: 300px;
+    width: 250px;
+    margin: 50px;
+    border-radius: 10%;
+}
+#im2{
+    height: 300px;
+    width: 250px;
+    margin: 50px;
+    border-radius: 10%;
+}
+#im3{
+    height: 300px;
+    width: 250px;
+    margin: 50px;
+    border-radius: 10%;
+}
+#im4{
+    height: 300px;
+    width: 250px;
+    margin: 50px;
+    border-radius: 10%;
+}
